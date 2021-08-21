@@ -10,10 +10,10 @@
         };
       if (d > 0) {
       x1 = (-b + Math.sqrt(d))/ (2 * a);
-      return  (x1);
+      return (x1);
       } else if {
       x2 = (-b - Math.sqrt(d))/ (2 * a);
-      return  (x2);
+      return (x2);
       } else if (d === 0) {
       x1 = -b/ (2 * a);
       return (x1);  
